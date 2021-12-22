@@ -2,7 +2,7 @@ PATH
   remote: .
   specs:
     omniauth-feishu (0.1.5)
-      omniauth-oauth2 (~> 1.6.0)
+      omniauth-oauth2 (>= 1.6.0, <= 3)
 
 GEM
   remote: https://rubygems.org/
